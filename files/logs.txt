@@ -1,0 +1,14 @@
+[06-03-2026 12:20:16] [INFO] Scraping realizado com sucesso
+[06-03-2026 12:20:16] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:17] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:18] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:19] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:19] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:20] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:21] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:22] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:23] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:24] [INFO] API Request Country acessada com sucesso
+[06-03-2026 12:20:24] [INFO] Compilação realizada com sucesso
+[06-03-2026 12:20:24] [INFO] Planilha gerada com sucesso
+[06-03-2026 12:20:25] [INFO] Webhook enviado com sucesso
